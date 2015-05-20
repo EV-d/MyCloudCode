@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "EvShop": {
+      "applicationId": "qoOgyeunhYhCIjHR8f0OJcwuvkrjT49xDt20ymGq",
+      "masterKey": "ynGZz0qN4v2lwShjWOEFwJ3dOe1BfE5tmNZiCSXk"
+    },
+    "_default": {
+      "link": "EvShop"
+    }
+  }
+}
